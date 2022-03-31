@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\shuaga\\source\\repos\\Xamarin\\PieShop\\PieShop\\PieShop.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\shuaga\\source\\repos\\Xamarin\\PieShop\\PieShop\\PieShop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shuaga\\source\\repos\\Xamarin\\PieShop\\PieShop\\PieShop.csproj",
+        "projectName": "PieShop",
+        "projectPath": "C:\\Users\\shuaga\\source\\repos\\Xamarin\\PieShop\\PieShop\\PieShop.csproj",
+        "packagesPath": "C:\\Users\\shuaga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shuaga\\source\\repos\\Xamarin\\PieShop\\PieShop\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\shuaga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid12.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid12.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid12.0": {
+          "dependencies": {
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

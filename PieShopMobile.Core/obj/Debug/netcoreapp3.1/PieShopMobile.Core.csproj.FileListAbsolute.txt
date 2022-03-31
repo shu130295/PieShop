@@ -1,0 +1,10 @@
+C:\Users\shuaga\source\repos\Xamarin\PieShop\PieShopMobile.Core\bin\Debug\netcoreapp3.1\PieShopMobile.Core.deps.json
+C:\Users\shuaga\source\repos\Xamarin\PieShop\PieShopMobile.Core\bin\Debug\netcoreapp3.1\PieShopMobile.Core.dll
+C:\Users\shuaga\source\repos\Xamarin\PieShop\PieShopMobile.Core\bin\Debug\netcoreapp3.1\PieShopMobile.Core.pdb
+C:\Users\shuaga\source\repos\Xamarin\PieShop\PieShopMobile.Core\obj\Debug\netcoreapp3.1\PieShopMobile.Core.csproj.AssemblyReference.cache
+C:\Users\shuaga\source\repos\Xamarin\PieShop\PieShopMobile.Core\obj\Debug\netcoreapp3.1\PieShopMobile.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuaga\source\repos\Xamarin\PieShop\PieShopMobile.Core\obj\Debug\netcoreapp3.1\PieShopMobile.Core.AssemblyInfoInputs.cache
+C:\Users\shuaga\source\repos\Xamarin\PieShop\PieShopMobile.Core\obj\Debug\netcoreapp3.1\PieShopMobile.Core.AssemblyInfo.cs
+C:\Users\shuaga\source\repos\Xamarin\PieShop\PieShopMobile.Core\obj\Debug\netcoreapp3.1\PieShopMobile.Core.csproj.CoreCompileInputs.cache
+C:\Users\shuaga\source\repos\Xamarin\PieShop\PieShopMobile.Core\obj\Debug\netcoreapp3.1\PieShopMobile.Core.dll
+C:\Users\shuaga\source\repos\Xamarin\PieShop\PieShopMobile.Core\obj\Debug\netcoreapp3.1\PieShopMobile.Core.pdb
